@@ -4,6 +4,8 @@ app_publisher = "czed"
 app_description = "custom pos from dc"
 app_email = "charbel@digital-circle.ca"
 app_license = "mit"
+
+fixtures = ["User PIN"]
 # required_apps = []
 
 # Includes in <head>
